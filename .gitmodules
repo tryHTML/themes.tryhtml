@@ -1,0 +1,6 @@
+[submodule "atom-syntax"]
+	path = atom-syntax
+	url = https://github.com/tryhtml/atom-syntax
+[submodule "atom-ui"]
+	path = atom-ui
+	url = https://github.com/tryhtml/atom-ui
