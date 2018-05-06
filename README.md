@@ -11,6 +11,8 @@
 
 [![Become a Patreon](https://imagestryht.ml/themes/patreon.png)](https://www.patreon.com/bePatron?u=10553679)
 
+<a href="https://opencollective.com/tryhtml/donate#" target="_blank"><img src="https://opencollective.com/static/images/become_sponsor.svg"></a>
+
 # License 
 
 ![License Advice](media/license-advice.png)
